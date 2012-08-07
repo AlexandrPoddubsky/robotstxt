@@ -24,7 +24,7 @@ module Robotstxt
   NAME            = 'Robotstxt'
   GEM             = 'robotstxt'
   AUTHORS         = ['Simone Rinzivillo <srinzivillo@gmail.com>']
-  VERSION	      = '0.5.4'
+  VERSION	      = '0.5.5'
 
 
   # Check if the <tt>URL</tt> is allowed to be crawled from the current <tt>Robot_id</tt>.
